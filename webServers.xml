@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3937460b-8978-4fd6-bad8-54df06f06717" name="ign.cimdev.dk" url="http://ign.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/ign.cimdev.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
