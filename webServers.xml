@@ -9,9 +9,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="a1ece9e4-325d-4cb9-b000-d4557ec4b99a" name="paletten.hels-gym.dk" url="http://hgpaletten.hels-gym.dk">
+        <fileTransfer host="web11.gigahost.dk" port="21" rootFolder="/www/metro.hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAwHfChAv19CQ5CbLbfUvzC518IxnuX631cm0akDgYeLmLHG+47fqXmgClHMlmwc3SD0FINBg9RjOTNvZmKMJzNjGK+TfrX82ic+cbmCfFU2vJSAJnScqat60E63z1m8gb4dh67Ku7yNQnU6MUAOIoM6m3RB6bd9aNrzNVS3sJJytA5T/DSvvi0iENpC7UxDvyLMsnehwAtPtoHyiq4ZvKno4AwOXrDRZgZViGJc7y8Ti4yWAtlANeXYO6UKEtOlsWAQciFqqV2+ksOrmEjZmDB2w=</data>
+    <data>AAABMNVUPkxdvbNrLAgk7Tv3KbPITDcXl4qY526WoFOI5PVZ0ZDbo1bba40kBNNiXMUihMh9NFr1pG0pQh5i1aM00qQzYk/eIqAilc+x5u+wB8AztEaqngHAGK3o1TZBbIBVsm8X43U5xVXyBkK5Xk0/QVIrMy0I7riPBreHXn5Br2ZYaYjhSm0jdStdlRScX3dxYuS01UcIXCC54HLbNkL1SGziR8UbufwCDTfOB7aoEKUs0ZvVXiL0A4m+A08kKVpysqG/9nVuwU572WAlj7mQo1VMqKXzs6EAeGCz22SJCgfAYsShEmKgWdiOWFtuRKs1+4n5j6u2j6yjhRDr3f1J7eHila2YF71ye5T5UfNGgrNaJlMJjUHFj1i+DvfdLJw/LeXlfRBSWKtmj8ow2MO3SnyIaFUdY3CR3bwUtbG/KTmt</data>
   </component>
 </application>
