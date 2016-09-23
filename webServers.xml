@@ -17,9 +17,25 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="30312284-0f56-45a6-b075-0f23f15246ca" name="info.hels-gym.dk" url="http://info.hels-gym.dk">
+        <fileTransfer host="web11.gigahost.dk" port="21" rootFolder="/www/info.hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2026bf1e-77ab-4f6c-98dd-11e29b9a9536" name="skaerm.hels-gym.dk" url="http://skaerm.hels-gym.dk">
+        <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/info6.hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABMLeSzXw61zYo0dp86nEONZQeSHz/id2LEtQ5iuIrPyXn7HLxcpLtg7a9CYiKQICZFgmoEw1xd+7AL5NNHjysMK4K8IrUSTadBFFpYRIX2Fa5W6HeLhS5qTk2EpN9u2iM5CF6S42ltGggWZri6ZFpzK1nPf45Rnlbx8Hw7rY+jh7VFfm6YAablvyojMzpPEvlnIgdFgLv8MD+GyGsXPLoKdD0XTjPQmMNinJWCP8WbB9yrRNGgBn9zFDuy0cxQeC9R+zSkRFR04k9HrOtJqSWGuPFPlTBxE1CF8UCO2nD1yrP7uvMgZG74EUopNwJu78naltDZXJbUgbKKBBKSIuRTjXEE2tVfirksc6j6mtdWtf2wZSB87iAoglhXpEV5A1+aMAtqTGqcqxt1nyDSRYoNUT++LHqAksgQACTPraIJpAp</data>
+    <data>AAACEL0M7zHJVEkjUQpXowbmU9unhrGrRRmbGANRcwgKdWgstNEeddK8YY6N+XZKIlXJcnkWiPWl3d/syo4Z3Ely3sqiPSz3OfZPV8IZSWgYAs2YxRPWrI2CRpLhtuXnPBrugKPejyDwT90+XlWql7KbHoxLb4+a8Xd1OjiiYMQkN4KwJQZiyWDdKuvI4DQzNxn6y048VoapHKOCfkfPXXBnRzT0/Jj77K3F9SbYKZ5pXyjhu24oTaaGGmTy8P7MtRe6yrqVggY/71uWlWC7aKwAxSKad9S5GMt1qLH/SJcT9bgCKdfgASFvr7ppfb65RPvtuJhHFAz/W1cd6YtH1lQSmLocnGiTAsJNlOdC2wqQRjVlGYWMjmE8PXjQA1hRtOtO8X1VXhLcp9Rhc86Lq+6HR4pat4T3F4UFuGzjI93lRbrYwfxAR68kmzw3KyUbJjsh1GJi8vBMdXC5CP5SMc6EQlK8VI8Na2IWmvC88+5FOnFu3Ixhn4eQoILO4vpxdjQLjHMGx0M9PPwPs327mRI++vcOr42hIRtBB5Hto4fFjLoiINTW66AupEjICy/lt0n8ccr7FCLCD2kH+bGCUZk03eDzEtnZ/JCyGpful9P5oSvHrnsAA89gNvKADQ7jsoCbINjTucgHHoa+o2rZfSg8CJheItlh5Rw8lP0FWSb8H/dojExqVNre7QAElkBgGeP35NGLv9e7UlrkqeVZ8tfu2lU=</data>
   </component>
 </application>
