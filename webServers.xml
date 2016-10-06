@@ -17,9 +17,25 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="30312284-0f56-45a6-b075-0f23f15246ca" name="info.hels-gym.dk" url="http://info.hels-gym.dk">
+        <fileTransfer host="web11.gigahost.dk" port="21" rootFolder="/www/info.hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2026bf1e-77ab-4f6c-98dd-11e29b9a9536" name="skaerm.hels-gym.dk" url="http://skaerm.hels-gym.dk">
+        <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/info6.hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABMLiFYRzxLr1aNm0XUyA6mXfYwK34569nBNFC6cEPrBerA9MwuZsu0NTmwOpJLy3Lk+NEalYi8CsraavEd9f2EOdp6zr68SUogqvO6xf+LtBGuJwxyddwwduRJZibvrTxge9yX9xSFksUofZSe1Mw1lhJpOGvpPF2ACLKJccOXcY5APyXvDi5TfWd640vd7rfpWj3K5VTkAhy8IplQv6kU+us323jBMAhSSHhPUO4N584FiQPrDSST/F1qky0GZhBPfWws0BbrL+nA7JyrJbynx+kbsdOf1NpcVIRdNMhKFt3K58DfR1r1G9h4o4Rs6FM9kiQQlmDuZylOw65bc2DeCdPxPrctDjBakL5i7N+vqMXC4rBYXcr++BTAgJC68f3kqc22JKLmNdzuROpp+xxwz2PGP8XKnB+iTOkiDdIFDXa</data>
+    <data>AAACEJ/IjUMA3IpQnS1trrlAFAQPv7YXWBgZHX5V0S5FQ4u2bDRSKTEe3xh/hXzMUV72Pyqukrk/jmghTHRwE85VgFUCsShxrlgzp0SzWW/D9YGD/SiQYkwJhG0P3qPCNObMiZojR0OYNDc2lJaDbrl1BYk2F73VxMmRSsjmx5Jn8fVZ+AR7hv48stVd1AI7jj4n0GU7FQWtfB7CM5c2TQ2OD4Sok3fG/EjlEVonK3QpHm+Cq8D8G3hutHxirNSXktE6i56sgxQp0dcTYbWSHlCPqebNbzzhrn8ATz6Lq3W3CuDqJiSaCzGRmmjZBsNEH+kAd4XG6KwEsZ+Vd1HXMLIC6waPtZ1TcDrkLyj9pzHQ0WIIPmd92DZEXjcVhkrs1qHwwmxK+oxBUyyOjKod6u3w/CAd8lMC7CXusDiaf/hSs8KewfWTHP/REKW3m5LVtpKFceNstX7c01qxThDW3jEWsG+GjWyxNxieRs2UCkVHNlSgwogEMPbanqUGCbtWU1C0r7rIckiMhQyGP+eOaRfPDZ5V3801YHAHKetXpqjtcBfPZUnKl7fWVJf3z/dZ/pr+D8lLYPpXwfZ4luB+Z1vh3G1mDc7hgLpOe8ipqdr3Zw9FXhmzZ2a0EnhRlm2kZ26GtJT+e90CzDTxHkwRfOKozyOPeOmqx8XgRZzqvHxu5GZ6+fLeiZrP4DYEyQgYm59lYrYybsxXaRUB1Lwyig1VtpI=</data>
   </component>
 </application>
