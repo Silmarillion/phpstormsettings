@@ -33,17 +33,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="cd2c3e38-83e4-4000-9a95-8c54d0753c51" name="cimdev.dk" url="http://cimdev.dk">
-        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/cimdev.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACkDqiA/z0cfZFNSYHQA6ijOBPpnXtZ7BLrCJHTMxDS9D+95xWKgWxWq7pdKK6JwumvXTwW/GudJE0qnN7WUnK0bNdavTiVQw4jFUMmD79m/2lQ/K17BGBGq7j78yIIPgwSi+EtgxwTBQy9hx9W4julQygbrfXKvl51wdgMUfFs0klN951vsnv6IUOIxs+63OeLVOocVNCd3bS/gNFrUhHdw4XnlXlAotpOdHDTmxQTIzjvlhVg5EaSxd2mMcMjBAbuVOYTJd6/6rA4+fz4iJ1/HGnTTtW7tbDUI9eVfXfsSS2Y5Zw3R3xLOCWXp6Ts67hiO7SaAdR3LET1o1VwjZOvF48Ta4FfcHiYnPNJQMQGkgkHOTdlWqRFt/NqWpLnG3AKwuOJLvc7f56Dxjh01FDFxl/L+VsnkDA1eDJYRtkG+i4zOjtXqVRVAGMGQC8qxEiXPVPUqITnTJHe/vtD3zpX407q4S57FA27PMccj5JCjBfRe5IM1MZUFARxTt/B8gKzHuLO+LHCj4VF5tsP6IvC8UNqtpUW0xbq9NIr4HrAyAtYSUPSLjmCwdpyJTdngs0d4MBv5uEbdeDANCeraYXIogGmOEb+EnkiUWw9RpRzcGuv+YPxveDjY5bB/JfctJx4a/Dhfoxlz2sr50KvS/qMVwAVThXSgJ8IxfklpVdh8Ce2X/YTweD2YC2T9AE8iXG3qHlJ+E02csPRWyCKAkCNVIwpR0ZMygo4EixSoP5EYS0ZhLb6Bpxh7QlTF18NT8FNdB1+Ti8paybrxZEb9SsnydgeyOiOuCQeizMUz2PIST5ZfEloE7MJ7xMglWGwTlIls8PrFdiTKklvjqsF4AX6/0HYO1BN2jdu1t+2/tC7DNaMo5lMBSwSuldyxFYJziC/A==</data>
+    <data>AAACENxutZVLOZZ0pb/bNO8BBdzxTvyau+Ac0RYcy0yzPaDfb9wisvO70cbrLpBXMVx7H6MvVhppsUMTBwffbxVb/kbsKdnf/YOHD113iZS1QyEnxbUJgRn9ZLEq6HLp7BEeo7XS3zmvgHP4nBireRd/RM7mfSgLWh2xwvinicpniZAkQNS8lyZUjzYSXk9yGZd1sA5Aox2ctOX4qBmXJDUqZdGZ6WaBr9KwKztdfvjNZnvefka4iVRtfEZAE7yOqpQetuB4+jaLFdcnssCQ0KI4nARt26usOAhskmUrmvEAYxSy4/ac5tsNmg6Gchc+q9ObPplKm7P0L+B/5fIgNkRyslIbRTNz68WAPrtZWx7Y7eLHEteOgzR2QMN9TT2vc+HHuB2j7aSeRwRnGmJzFD66mS831fqmn5QZ0U7XDH6yitH1LHmjeXN2OBbjlpT/YkukmNlTHNDTc0n+j+IGWZywoZWbisptPJEPRhJuqIGr1hFTPpXsP9rvSwnJ2II+u9m+DE0GxRpTDXJAuSU7myglN9/MvxqdBIjNl1RzGKSGElK5Jwqxb+Mjf+Xoz3/TGkk71achn31EegqUJhIz1K4ynIvzxckBn0MOmbzOTcVzIkpcsim7iXUYM36l5AimDRuShVdzLZypg4JdZHp5mFvSU4xUxBkZGv9nOYg6XkRWKpDUYgdcw/U2t0KzhM4RiU9KMwAfO/AMMJkDAeQ4eCxZYC4=</data>
   </component>
 </application>
