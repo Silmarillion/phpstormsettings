@@ -4,7 +4,7 @@
       <webServer id="3937460b-8978-4fd6-bad8-54df06f06717" name="ign.cimdev.dk" url="http://ign.cimdev.dk">
         <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/ign.cimdev.dk">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -12,6 +12,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAwKObBplW7wT66peewcekr6vXtUm3yNL9iGweHA7l+2sjTowOo34wVXmx8wqyHWYCl1pzPljEbUzb77O7zaMsaB5psoCUOjnHjBgs/bfHNVVA8/tcXSDouTBS3T9SHTQDA9jZk1GxeCx3Oh6ycibbcpZiroKsrFfnDvIIoyWmyEW9wFkjjAprlkCvYkd1VVejV4O/MqRnWXDPapc/ck2QKCX5KnGnYzz82hmMteHLHVRWzqhyiEey5Z1fIrbzKNn1bbBCsjrvSOHZes1PUwKKjug=</data>
+    <data>AAAAwOJiEI6cmM2g50XlhL/dyXtxG0hm3xmvpJBDPTXlCWnKB3ROWdGXNmTQYvgocla+jKAO57NaRb7PfINY47LhLEJHaLzjymHyJlWv7pHd7JipbiJ6ax5EIAus+Wo4zEaYEnvGHjjWDXPi6G34r9l0HXH5ADfSh6ctE3f5Ecj1o/rS02LRqqYd0DhGaznyIwOv+XcF4NPiZfNvYuJPE0SuSQszIVMOp/Ibp1OSkWQ5yyXPkhfml51VWgipfFCSjiJaIdJ3xPDd1aGi6pCqr/Wg/WM=</data>
   </component>
 </application>
