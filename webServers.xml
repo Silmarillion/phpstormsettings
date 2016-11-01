@@ -4,31 +4,7 @@
       <webServer id="3937460b-8978-4fd6-bad8-54df06f06717" name="ign.cimdev.dk" url="http://ign.cimdev.dk">
         <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/ign.cimdev.dk">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a1ece9e4-325d-4cb9-b000-d4557ec4b99a" name="paletten.hels-gym.dk" url="http://hgpaletten.hels-gym.dk">
-        <fileTransfer host="web11.gigahost.dk" port="21" rootFolder="/www/metro.hels-gym.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="30312284-0f56-45a6-b075-0f23f15246ca" name="info.hels-gym.dk" url="http://info.hels-gym.dk">
-        <fileTransfer host="web11.gigahost.dk" port="21" rootFolder="/www/info.hels-gym.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="2026bf1e-77ab-4f6c-98dd-11e29b9a9536" name="skaerm.hels-gym.dk" url="http://skaerm.hels-gym.dk">
-        <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/info6.hels-gym.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -36,6 +12,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACEDbDnrWNgKuA2YR+GP2X/9e+o3iw++LlbPsh+E44VjjDg43gitw1+mNnAUcQ0FJhXlrl4QhPqtOO6kmd5/RunAx9y1ryuoYTKyBBSL9D+qU53/Ff/LWp5It0/VmvShUHbdBB7PeMO+n8Nb+AbZYIytIatD9DtX9vROHR2gQWIb56kncNFZGRmw0d1+HsFw4ATUFqYRvLxNCD51VLUJ8RCtj7gRmRa8fwm7JLkBACo1gMcq3FMsDrKT74U2fT7JvPs6YaDTo2zqtOKmkfarZIb6Ntw6TpJ3gGemV9iNmbMXbMWr17C2Lmn6DoOsIgmXQBGdMHBjhXB+4UcqCc7lrvqr4FZX+3b5RyfSc0VIzaKd9Fyw8MXnUfp0+s+IYsPReQB5p5cLyPjfcIGa/Qyte21EwETPJSEiUSxXWNzz2eEP8p8n1BUX5AUhjPNT145709EO0m+jS9g73GKubSimr1kAWoejhM0SyoxyaZrUk8gTVx6lzsuI0PP7X1P5HRPoIdJ8JO42ohTzNc5pIJTJsDL5zBjBehaop4c9vedY3QgcK0fk2TXUMZXjdADwUhVG/vUUbC9z47dd76EF7IqAlAPm3nmPwqIZu1fHpRZMhnZV65H3YjcornulP6U17uZRgdK+8wwOAAiuM8kPBBOG445IDJ0kV1XRY1i6pjw650psQMHeP6clA1ulShr5nV+TyoxMPqMN7eww7aECVpLN5phBE=</data>
+    <data>AAAAwP3n65oR5OoSjdKg+pxoEJ8l+0+MXk4ByYdA7BU5aKtZkPWQolB42bhl4SqPuiw5L5RAILVywSsNesH4EWs1WG3qAxgJ0To48v30KYi/bxVd0GD76PP7EFjZd/CpRhMt8Ngtio4Wc2WTnABAT7T5UT/AnuPllgAzc9v/d9Sjjy2Ri7G3ZkV8hkQcUfhJiwMhvB9UM7LsV0uT7438LJIb2cyoDTd7JB1vkT3FW47WMMEja+Zk2qG5VXPbDiy/hmcgq0DBkx5pj+jv5hsr3dKLBYs=</data>
   </component>
 </application>
