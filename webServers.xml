@@ -9,9 +9,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c143d858-8534-4014-84b8-962bfee0c138" name="ftp.hels-gym.dk" url="https://www.hels-gym.dk">
+        <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAwG9Yg+832TJlmdAHjLthVVuZ32afA4iy2/M4XC5bbBrkWU2Niv34Ct2zw/HxyTM8Psiv/lcum6sLZBDa6al6veiFOYiWcABPGwaE1gksvPqlHEWdn98y5Nh8QR9w4t8iIpewvVOZYBT99KWFewjF6CR+osr9gfWglVhb489HsBn9ACk40jMWskhPP5gZpzN2CUapNkIt2VTiBC4YEBpUbYYu2eAbyUUXEsEfoqvKWdIJSv6x69FQeIBzslGSaQPqvIu5PTtBOFkX2+Xf7iidg4A=</data>
+    <data>AAABMHViEHsCk864RgCgNMBaWQgHhfTl6IV07iPRa7/qeMWHwhMOdFISJfZf5cWX1eppWAGcWPKOvKnSktb68Rs/CfkP3HHRvN/5AIvQyDqHA76Nr0Bm+1wMqnNBeZWEGgIV9udXxuIWmdb3Y/o2IZ7ukTLKdDXBGOAuCN8rNCXjQn+18ExuDGorsW7ojB3xKI8MZQ9HVowHCHhG53Xe4Zt35GyF0bNnvubeQWwl1c+ahu+hLQdhrtzHT2BjAWcJhj7rUYCgPtsOLId3sa/CjIZJGz/wurl/H+eCtF3IinpWQTFc7CdLL+LON/BsQHoNNEphQIsQ0eb8H21dxQaiU7/UsK5lseKCh2Ln/MFIHlhsj9gNmQIGythPDmewxklDlsG8uXqyuH+j3vrRZIj4L+P/BVg+x/vMHV41TnV2ci0lkSf1</data>
   </component>
 </application>
