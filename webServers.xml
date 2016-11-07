@@ -9,9 +9,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk" url="http://ftp.dalbakkegaard.dk">
+        <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAwKYYdiI4G4HdaCeOH8cXaRbQZ61wwxlY7z89P871SxjW4Zqc4FRncGJj1/SxUpCA9RcaM/bk3wR0kbwBx7pRHXcz6xLZmWtPWTGR+NuMq+h806DI710ogZM4faoOBFcBuoepjZDQ2H1+Cm48s49VenFc0/I8IioA5A/aB3Y58McuKH4bs6G4RF3slHr0+xeGg8Tfnu27GuyQCCSYChXDA7PmtfwQj8y33PsPGDbbyOnx6nSYndppw/UNANB/JTBczZm8Jnj4NHadaLPIlMa/TfY=</data>
+    <data>AAABMJ+zn5OYPjK5ibH2Va5C0KrgUKkVuO4pCERUgbcbhd3mCcbfDB6vZWEnAd3gwALy0WTJHp/cRZCIUhXKaw0jxHCt4eaHoBiFLy3u3HP3AOg2ItEvrYSxMYoEhnh+UKDO1SDu3h2JkLOyp2EXUj8UGLLfPIMf8t5mfE5PUCGBKE0VAu+u9zA6AJMayF1dtQJSoA0j4x+fQ7qnY+Dz5vvs2Nval5Tx8ayKKRYg5Kq1y9aZPzjzuCRnWCCJbMpBMe/T97GKMb+8/5i2PIjd6xs9FqJOVM0pcYh1yr7iO7hHzEXW6nRVrhYx8MCUmcvyR2VtpwlZp1BasPVPiOn8hg0YRH4MIJvoMAVTzhCJLePLis9fAeciVIZnFhtSferNJH0j5p3+q6Tvzxw0yP5V42TGaEIpyJ+rEFPfdk/qyyiyePA2</data>
   </component>
 </application>
