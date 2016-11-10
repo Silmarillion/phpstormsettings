@@ -17,9 +17,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8bef7e59-f092-4d7c-908a-7ca444ac8df2" name="dev.freesetglobal.com" url="http://dev.freesetglobal.com">
+        <fileTransfer host="198.46.83.11" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABMJnj/bkRiMmavcCThtg1/u8g/p/D/8dYUYR1XWeAlQlwsz2VZSi2aFk6e8tOnYKDikced3El78CyTelK/nNK34mrLwe1ULGmncBqu7qjWhvhqwScVpeThzkvGRIW7BDAARr0FtcFSekrmnMG1Mru1zj0qsIJBzu+wfMcw79V0rKuBLrvSDlW8P03B8ba0dQiM0wkM+pMRNZ0C0KNcKgAAjh7Veayitzl6vnbGundFujRPVk2C2u9WHVfrUmCRC8XfXBzlh+bsZXmLRI3etEMRW0kywK0VZBBMrd38REJKhS6pQASOwGD1z1jzvZmpa26xcmST/oq4OABDPoHh3aq496wchAzZd+7i/ffxZCPMYPW1UE5gPG2LQ1pLDbd73VJOJwANAw4pMbxSwtVaX6WCvZUsTaXy1mbw1X/fe0L75oS</data>
+    <data>AAABsB0voOSPp0F0gIhbFEwoM6tH90w0jzs9e0epubX4CNqNjTS/1X3HS2C6LOhppKO6JSND87hCdtBJUMs6j+vAnnz/wlxIR9NXE52Kqh07N0yqhVY3fuuXfrviZWhVB8+U6JCC/ZGOG9Mk9w8mcnLYCPUuoc0DDkLXKMYJgbIVyW/Nr0UnnvKXBaoWUjRctc10MS7bRbLF3inwwwPZLvLqxZZmaY8VBlzsxyowLZ1tPKHj/nhiV7bTyIc2LkQTY08Ejk6e6Ft03KyGEeHf3ZOpz5MVd8PuXEqEANbNA19tAd+yuAEJYa5/RsI+k0lf6ISjaAkNUfAc1u0QyBqTSDrXF5r2zzxfqB5yFMUHXkQmlzpkHOgHZqWvyERRoWr+/WRl4hLYVnlWQPYTSI8aUsE2LlmxDZsPT8k0zdyhBZpFkCHrW677uLjJtZ7K5YN3/PjJTK6pHVjZAnpF1pVksuDS27XYVXw5qKz3ji2LpTQ15biXpv+0akbvY4PrWz9vjKqyXDRoy6fKg9qBsgEY0OVgsNwrKhF+EbFvDdkbS1c+wNle0pRdGR96LQlsCJyHUBu7ls+gfjNRbvreL3SzgKpwqMY=</data>
   </component>
 </application>
