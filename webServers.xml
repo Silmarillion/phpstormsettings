@@ -25,9 +25,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="78c36825-bf61-46f7-be68-bcb79f279d23" name="ftp.seaboardcommercial.com" url="http://www.seaboardcommercial.com">
+        <fileTransfer host="ftp.seaboardcommercial.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABoFiGvMbBFXmiNcxx9MzjjGxhVbPQfhmzj7kyDRVLgWcqX49nYWPGIM749ydNYYVGhUvDCpchLWnTrefxrrQyeNfaRUCAMRXXsWi9w4DzYQJ6tTUtKoiXxtrWw9SmpLUleairJp/ZO/dd4LQ/++kVxXRphnB8noJPQ+9AWw5B7/uySFlK8+dZ5NEyxDIisKeHq8+lEsbTj2y5MsQ1nkmUigr+X46U7ar6dCm6eZ4gpSluc6XMtU5NdBDgjfC/5B7RRqC5wVf/kJhOVQ70QJp1Lu9oRARn2XuaPpz25LNWU6uM9FyXWLYXHvaGZZZpu8W69EwBB42n7h4k64ArVoNDBn7zoWDN009myaKHSC4l25FhmcsXttxygMQhbrP1s4QTZsbY8e8yy7FRH0h0d83JF9nDZigvsWSOhw7tiHgaoslqE6E38ItbeSDEYtU5FUa6tYoAr5BXHo+tlcSXVfLCKk7FaUKuigs0+nc2YT4cx40rPEz6XxFzR07XClKxs6DNKubK+YGzRVBm09XElmIn2ScFgU4XFJkCtVVyxJL2TgdBn8z55CaRArJSw9jOeJ/DcA==</data>
+    <data>AAACMBnyhSOUpwKxx+AVz3NGp6PpGdIXGnZgxhU79Z5RepfG+pe8UnmndyB+8cnivbqM6cpCscmMA7ODGgr6f2OQthcBR5Kca68dViItZPhzYtS0YfnUHxHWeWXcyUVQTB8Y/Npzl4vlrsmcDYAky8BRrb2ncN5NLUgb1QVqtx0l5RXJaL+BSrHANNoaATlBj4qqV6KNr9DJinWWqulWiGz/4HYVMC9H+yRZbVn9WX4Vjvmv5WZVyojqMohtT6ZDi1PirQ1eJtIgzeWXeMJS0dcZXYCR8u1s0PeCoIPSn9ffuh/Skoy7UBH5O+Q20Q+Tw4Po73lFO3ag6fAWfcSqlF/d2mLpgF+LKGbiIcMT9jpyFBL3G4q9lENXz+2EWms0KBJVuEEq2oOTFhCl0KE47lGarGGKKgrIYqF4Yc5A4nGYJ8YD5F+izmPCL3hiwvtWqmLjuwsPcItQmz1u1X16r6nYJrwTYX7PwES15R2Uu5hLBubCl8/SaYjcoYnCG/MqJVJeAiT1qexiN4KVZbyNobbGAythgk7KiNVvAiRib3tY6KOwNmFZQKiHXYtHF78Q3kc9rzLW839PlBe6ZdFHhuzwWpoVBYvtSoa9TCd2BMnbmeGO8vDtfD9XRZXnbdT79OtCTvQ67oEWFrint5g9v7MOMLTIaVGGCtpsHXd94FTUZnveHsbtBale/bThAGYVNrSr5PcOD1dLoJBJCZqdRtHw/xCSRAGHqOqfGM5re0VjGfjYedYmXdHPTZhAAX82jx3CVw==</data>
   </component>
 </application>
