@@ -25,9 +25,25 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+       <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk" url="http://ftp.dalbakkegaard.dk">
+        <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="130be98c-ba30-449a-b7a1-4fe2c88a4278" name="statistics.cimdev.dk" url="http://statistics.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/statistics.cimdev.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABsNuKgh4alg3QIlnxdj2fcr5lDHd+mZbgcRRnB4tSU3/5+AReIgCVlSXQjh4+gWmOYDfk16j4P9hqQ0hRJm/ntG1JpmMWAk8HPBekJQiDqZ+Tw19GXcHbQgaE8nlL5AQjgYJgnFrEifEIuRbaiBW+wp/xzsuVfHsYqFpBOI3fcwhqjMG4DQdnYsUPvXWsyvdWjUnmZVbc5pI2cjxws4EOrn1sH84X2jJaVtg/JRMwvHrs80ZvbUEYa2Cyaje+ebwhBzZZV707oPER5FwRVklqKCF2wpYf35nPFGquI6ge1jVDHkXVbnf2GF3Szl4y3L/jAY3HYtJyiY0Pbohp5ApdQAUT3EVYA9/JRoEihfdq9fXZCgJznIYrNN5PNRKE6ihxWrKJiBtjbl/0V0AlAXJ37kt3u5m47NBUnCwQOWROTNpcXpOCYL3Rx/XdtqnIotwBwyck5oKXL1IQF7OBQzYJAd2XX4byCANct4GGcG5hAbLknXhYOsGgM4ufBJ7COKB34qfywQb+BVD481iJ5fVFVStg+yDwzkK6WuHULcNX2KOuCK+uDwRiI2hjgDhNuBwGXYf8Jg1rawhcNhI7YkfMLEg=</data>
+    <data>AAABsB0voOSPp0F0gIhbFEwoM6tH90w0jzs9e0epubX4CNqNjTS/1X3HS2C6LOhppKO6JSND87hCdtBJUMs6j+vAnnz/wlxIR9NXE52Kqh07N0yqhVY3fuuXfrviZWhVB8+U6JCC/ZGOG9Mk9w8mcnLYCPUuoc0DDkLXKMYJgbIVyW/Nr0UnnvKXBaoWUjRctc10MS7bRbLF3inwwwPZLvLqxZZmaY8VBlzsxyowLZ1tPKHj/nhiV7bTyIc2LkQTY08Ejk6e6Ft03KyGEeHf3ZOpz5MVd8PuXEqEANbNA19tAd+yuAEJYa5/RsI+k0lf6ISjaAkNUfAc1u0QyBqTSDrXF5r2zzxfqB5yFMUHXkQmlzpkHOgHZqWvyERRoWr+/WRl4hLYVnlWQPYTSI8aUsE2LlmxDZsPT8k0zdyhBZpFkCHrW677uLjJtZ7K5YN3/PjJTK6pHVjZAnpF1pVksuDS27XYVXw5qKz3ji2LpTQ15biXpv+0akbvY4PrWz9vjKqyXDRoy6fKg9qBsgEY0OVgsNwrKhF+EbFvDdkbS1c+wNle0pRdGR96LQlsCJyHUBu7ls+gfjNRbvreL3SzgKpwqMY=</data>
   </component>
 </application>
