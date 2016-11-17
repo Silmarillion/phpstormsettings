@@ -41,9 +41,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6864a57c-2206-48c8-852d-9238120a1dfe" name="Dansing.com.au" url="http://Dansing.com.au">
+        <fileTransfer host="Dansing.com.au" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABsMCQLuEyddjhs8xYguosWiQqELizkU342IYebBrTRY8jtrZ2sPF6gY3tN+HXdaQNxGUcjX8cL2bH2jYwyoA6TEfdy4l0AAmw7unIZ6OltqvHv5FjlTPJ9Lu9xRW2+iCSP+WumGarOaoQ0XJuYZfzHQ+G6Zyd9q6D+H+1Nc7pWk2hRuLQwpVwNuPRBj5T7gQojsG1xLKJYLcgwXgzwoF6axZ7EVEdiPIlYOuAWJv83uDpbakemKwCMVlAL0jq6FEapNRp4mqQBW+D3L2r+6cp8lJKySkxHZdxku5GTaGZSmbGosASDIjQTiLBeo2zSVbq1cUTpxoLlwFt5GZZ15grHZX874+geQw+c5YpDC0XVgOK8ocBWV6BCQSyIEcbu7tW9FYe1STqDnxvYoqPHAl4JyXP0xOX0YgJrrY30TAo0WjzlickbEeSE5RffxdmWmpKLe4OY7xokWidrrjSdaGua08dBgnjS8m67LB7DRgy0SUZGbV3SNiHGMG4zDwheE+WXmwaVyiRmy417FltMvpqBFPV02+2ZgUF/vCriv9ZTrnNnrh2qyY8lNrI/afyB70JpxPWt/IZPEXUgo15CBPKrAQ=</data>
+    <data>AAACMBJ0WbXBUKsTYmFt3m0glFjTyzicLMW+XuUYuWlCHtqc8aGgyA/CXb+fK8JX9AlfRhi5bcBvS9nrWL44xWj9hpOPW4qq8IDb4UFyO/UN9Xf3QMSDzAgs5WRbrNVzFUC3Ar0xlLpsEoGupV7PV53LqO4bIFAPFdFg7BLNEEYObauX0LMvunkni2GSqi65S7Kk+VjupZyfyiAs4WmESp6Dk9ywmFbHWe16XgDAvdh34i5j3pCIcVVK8/Bp53Il7h9PVt4cwqRXAav/T7IAexwm0VLHI/wonoIIwwWluN5/SKxB+6Yr6nm8hTi+Mqkix4k9ECZgDCR006PQ7eXsJviwwpuRqMSX9jqM44N7M8wyprsHFSRLQQFsTtZIJJy/wL5vOvz/iXfv1beFfyHbe5vjcuj6gKB2HQxVu1qklZqfhtIuEJPckd9aBgu5r0Cgk8ISObuoLN3H72nUpgAw+sJD/rdOVHz74nQLJZe62cpXMyS3T7omJf6BaD9Vpf2AY3UdF3I7W3CF5K6if8GMkBKSsDYdwcMX2odTK0vD3b2YkGt/jiJDAGoPBZ2l01MJnyhngyu7XvpetncSopt+NuSNgEi3jeZrm7oygQB70rXMezGFLPEQ63VDEinB3ma6d7fPJwE9X6oVK3Td4++LCf7u5f4mNh0n5G5Z8ATzch/aNQ6k3CPsJw/1EPXEydaMpc/I0tLoRjJkeabtHc+TeWUDgWLP2gLo8CvE0XMlTcxbo41eroL637MoY9/3xWiMrventw==</data>
   </component>
 </application>
