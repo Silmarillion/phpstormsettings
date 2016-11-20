@@ -9,6 +9,30 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c143d858-8534-4014-84b8-962bfee0c138" name="ftp.hels-gym.dk" url="https://www.hels-gym.dk">
+        <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/hels-gym.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+        <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk" url="http://ftp.dalbakkegaard.dk">
+        <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8bef7e59-f092-4d7c-908a-7ca444ac8df2" name="dev.freesetglobal.com" url="http://dev.freesetglobal.com">
+        <fileTransfer host="198.46.83.11" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk" url="http://ftp.dalbakkegaard.dk">
         <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
           <advancedOptions>
@@ -25,8 +49,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="78c36825-bf61-46f7-be68-bcb79f279d23" name="ftp.seaboardcommercial.com" url="http://www.seaboardcommercial.com">
-        <fileTransfer host="ftp.seaboardcommercial.com" port="21">
+      <webServer id="6864a57c-2206-48c8-852d-9238120a1dfe" name="Dansing.com.au" url="http://Dansing.com.au">
+        <fileTransfer host="Dansing.com.au" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -36,6 +60,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACMI1bEFMRggk5noq6F3Eo76L2hRrf7apGSAHl6efJDJqzjuOXl+h0XcBg7EMssTpiRgHB1e0SYEkKDxo7H3JJSLJQVw/mmvjX5iKeCfcUrIV0IEbwFpvvfmIyffgWm+kHOy+a9uITUM3zswBFBVpcYMy/eX9Dp3rnzMsitz629T/BWGFEC2xQYZBxSYlMKdHpNAopk7b/PNrULXuQOuc22JEI//IqRtUVtrtTWDrsfJ/CxfPValzpEt6C0yGRPAc/J9iDc0ea+y42ae0ar9SVY1HqE2Nz1sp55Jsj4Z9/UIwb3YelMMjYZ1eJ0y0pJEfFx2RQqkp5S7L1AbT1onJRgxxI7Vcvlge86rhERWQmgPMUS3KqiuTSvYKUJdMjcYASLM55eDYl15ffmQg6d0yo59F2wAjKbrzhL1rYlQtb4gpLHq//fGBEwrTQGy32SStxPM5KuZOe39d3CIgXAgtOACMJiequO3RZ8VebdM7MvbGmRqj+wKTcgRFQa1XrbkXW+/h2Z97qbKJP2W/8GovPIBGh3E6amlnooifYPcDGwG0ECMFaQRPp5+oykveVNAwURsbd+bMIlvmAQLGuE2mcb/RsnS75H+1NnTC5j+fhgz7rMEnf+pKJDCj6/cz1KB7jMvLw9tRcILT3qvbQTcOPMHZ+NFTzLxUJb1SWwQAAKlLFWs0O+b9psTFNbBVZGvqndHAREDcF7Ijce7EIXblkPi+aySJM/FZJN9XmYSahyx3iHk8qBZLI0wXm/xEGGiLCsw==</data>
+    <data>AAACMIsUDFRG4fT8pNorMjwzu2LXhLtFUEdwaGQmo/u1afYOqYBUXHh6qSLO4kg9bg7zvaN9VL53rYs29LtG1+bvHDJTqdmkwMCSEFR0lAko5j7irVPL+/dCAYxwArDPtVTI0RU4SWlIMkAuwDpZad5/AJ/0v+PYdLkz65pfWfZRj/h53qebfyWSSoLr2UH/sZ2288tgEImAzhn5YIAscsftQhK9HCL7PX3JbefrGdDl8eXaVlz7qO4Q/aXV6nunS4AsiQEjfL6+Qr5Y1a4cL+6DIRJlLo/1DsojCRAgd+KDHXO/7bVNNJ5x3lNyrFDrwvXzPLz/F6wcbFssPFV/NOD3Dhi4I94sH+QJBFagFZqdYpsLlzN78UfeUYUaQawP4EM5nBWco9CvuwP29atryEKEEYu+B5mUzU/dmmQMqebqu2wC/rg1dCoLwALK0RyQf4E+APyLY8gdqxdYTFlmTkof+RkkqP+bj/y9Uj2pkp5yOJlq6mylDMORLd+9NnWgiUPyGRx49J3S9LgzjCb5r/6z5P8aVE+8rDz9YDomfM6nz2xtVId6bY7vMz06UQ1TB0lcG65rwnSG7UFbD/jjvapW6eQ3CVhBa+ipIir3gutFom1YKC0OSuTir0Mx5vqS24QmYFrEK1yhBoe1CfKJwSoyezQO56pQyt4QN8wpjDJDf3P0EG5ZZrwLleDX05JMBynSm7jIDZsikj876fi+56Qy7vFruIODkEb1nYnTn3pyG+Nlr3siBkONBUUHCrb1CXToMw==</data>
   </component>
 </application>
