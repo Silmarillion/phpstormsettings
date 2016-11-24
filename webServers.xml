@@ -33,6 +33,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk (1)" url="http://ftp.dalbakkegaard.dk">
+        <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="130be98c-ba30-449a-b7a1-4fe2c88a4278" name="statistics.cimdev.dk" url="http://statistics.cimdev.dk">
         <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/statistics.cimdev.dk">
           <advancedOptions>
@@ -52,6 +60,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACoGTUhIsqcnQuAvUN7heszUXNYzsXokfzCyDrhoPy/A63nJ1wRvg7EOy9dgeue4wP1cCJay4ySyPEFO8EZJlQHK/y/PCoblrKz9pPg/x9zbJxWHc5ZkxcG28uqsyPksjnW3wh1aKM51E+KtRtZRmkZF5yr8JvqHjzdLMDZJvqjHf2YO32xYtoW3BG38PFgLG6iP/0ygsAcwuyva0DFLpZE6j0E4OqLUy27VeBAbIxteQ+qB5BCvCqRZDjPEjZj72oeQZD3uzBXII6zvHu3fUP511MVMswSA6jkXIdeHXuUTSUk0irGMX8RGTnYdkLV9Ko2CmErqM/Irl2J7bWHHmabDJkfLNLAL7lhysrn4Lj0uC2fnWmI0IKj7YJbASAZlBkNVF8GikxaShd+vjmtv0m42p193UwtAvxubpuaxVyh22RI52XK4V7KlR143nyKhT/dIDHtqqcQVDUV6WlSLCBjdXYRHojNf9EDa/IirjNxtkJOJwxEeAKP9fpkFLHa6cEv7b4yPPbZKfDii6JPGbix7WcjPlc3NEdWcJoq/EiVhrv1DIa4kbZo6/an4y9rOBtH3aQWzv93iD8FYIKpvJzv4wok6vdJilrXhg2A2slhh4hJd0gXHm8GsfL48Eu+WQLX0sldiO9ih70YJH5yUcgOWPh2qQQMgePuCGIF12kKBo3NUE3Fg6aFhamj0ubHp3gwmElGJo2xrMPMDYvg0N56gsqY3o7OchhjgHYlac3U7VBIBk8LU6HYaICT8R3lEFG7jt7iTXAb2eFn4qVE8q53MVqiub/rdqpk0vBKa7NbDleg5bYzSmzvPSuckUQv8zjoXJLxO5nUPTwdgFhTqQ4b4mTdSLm7PCLRn+RkE9F/pLDGqcFcLEEbDOeVOLx76oq7K5dGQc8H00Z3UdfffviGec=</data>
+    <data>AAACMFTsRN9lhc3oN6vvmM2+aC5uKSwUmVfxjXZaKNn2dJAxOLj3BLfMkfZNUaBq7bamST/FszPwmi3LwtseZRAcGMs7YI45CAg3uyuLJahNHSY5GgFxo3PMVb0zhU/nLKZxpBGuaWuWu/Xa/tX9nSsFO/VqFimVHMPeNfnVTAllOoeY/kOAdc665x+MySLzE48kSy3f2HURXEZJazfv41TRmKuslmQS+2O02USDDhGG/Mf3aqGV0JUX9TVYVL7dVSyvl0a6SHQQeCTLqsSvQUWmQbkbaosTQoEfvvEdMpg9njEgiviCQH7XUEPZEK9dJCoyIxt2N24J1FjIiZkl9rveRzXX9BnkwrP+IN8whm/eFfNtWpYbcW3odlVG8xfYkiESQAtE+Guq8phsCzTTR/T2+N4bcYG8mnCm5Ev+KhoK11qU4y/YoNvIpacOODDO9rwB+kGpTXEENfirvE1I3HGhyL2xh98srMHWJbXZjwCM80uK4umQjXNAczJts0jx69D1NuGJRT7BTSDvQvcpeZTOQ6wNPiFvsOtxuRqMNVLsJzu8wOdYDrCN3zyXkU1ZIAQyLJ94FqXQy+9pswNQazvZYXfUsaS6uRoQTCf82RHWbuBU3Ac5lTPR2ydOvgEtYcTv4kLypJCwuMn889K4UIZOKIAE79qWbNRdrl91XNjIHA32bhh3qjPDIPQSnMSWR8q6zO+Dept5EWTx+IVfEW7yxvjLgS52nsNNWlCtO9fTD0AVcuOMH14UUxlAxs+/w+gzIQ==</data>
   </component>
 </application>
