@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '[ign.cimdev.dk] - ...\modules\EasyKursus\action.tilmeldingbetaling.php'" />
     <option name="defaultScopeName" value="File '[ign.cimdev.dk] - ...\modules\EasyKursus\action.tilmeldingbetaling.php'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[ign.cimdev.dk] - ...\modules\EasyKursus\action.tilmeldingbetaling.php'" />
   </component>
 </application>
