@@ -57,8 +57,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="d2aeba67-a4e2-4210-8d60-70b0d3a88835" name="ftp.ds25.dk" url="http://ds25.dk">
-        <fileTransfer host="ds25.dk" port="21" rootFolder="/public_html">
+      <webServer id="59b94843-2022-4789-816a-bf4b35e49460" name="daaben.dk" url="http://cms.daaben.dk">
+        <fileTransfer host="linux37.unoeuro.com" port="21" rootFolder="/cms">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
