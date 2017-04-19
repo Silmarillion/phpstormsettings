@@ -57,8 +57,16 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="59b94843-2022-4789-816a-bf4b35e49460" name="daaben.dk" url="http://cms.daaben.dk">
-        <fileTransfer host="linux37.unoeuro.com" port="21" rootFolder="/cms">
+      <webServer id="59b94843-2022-4789-816a-bf4b35e49460" name="daaben.dk" url="http://dåben.dk">
+        <fileTransfer host="linux37.unoeuro.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5ed2fe03-2aae-4478-bc3b-6011f6102442" name="behandlerlisten.dk" url="http://behandlerlisten.dk">
+        <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
