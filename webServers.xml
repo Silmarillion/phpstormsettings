@@ -12,7 +12,7 @@
       <webServer id="c143d858-8534-4014-84b8-962bfee0c138" name="ftp.hels-gym.dk" url="https://www.hels-gym.dk">
         <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/hels-gym.dk">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
