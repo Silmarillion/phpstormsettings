@@ -12,7 +12,7 @@
       <webServer id="c143d858-8534-4014-84b8-962bfee0c138" name="ftp.hels-gym.dk" url="https://www.hels-gym.dk">
         <fileTransfer host="ftp.hels-gym.dk" port="21" rootFolder="/www/hels-gym.dk">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -61,6 +61,14 @@
         <fileTransfer host="linux37.unoeuro.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5ed2fe03-2aae-4478-bc3b-6011f6102442" name="behandlerlisten.dk" url="http://behandlerlisten.dk">
+        <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
