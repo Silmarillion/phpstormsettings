@@ -73,6 +73,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="b73f7b05-bc67-4961-9479-a257df79427d" name="wfd-duesseldorf.de" url="https://www.wfd-duesseldorf.de">
+        <fileTransfer host="wfd-duesseldorf.de" port="21" rootFolder="/web/" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
