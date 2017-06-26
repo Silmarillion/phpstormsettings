@@ -60,7 +60,7 @@
       <webServer id="59b94843-2022-4789-816a-bf4b35e49460" name="daaben.dk" url="http://dåben.dk">
         <fileTransfer host="linux37.unoeuro.com" port="21" rootFolder="/public_html">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -69,6 +69,14 @@
         <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b73f7b05-bc67-4961-9479-a257df79427d" name="wfd-duesseldorf.de" url="https://www.wfd-duesseldorf.de">
+        <fileTransfer host="wfd-duesseldorf.de" port="21" rootFolder="/web/" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
