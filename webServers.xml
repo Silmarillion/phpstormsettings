@@ -68,7 +68,7 @@
       <webServer id="5ed2fe03-2aae-4478-bc3b-6011f6102442" name="behandlerlisten.dk" url="http://behandlerlisten.dk">
         <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
