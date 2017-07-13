@@ -81,7 +81,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="73d09481-d89d-429f-9030-65cfcf3e45be" name=" wfd-duesseldorf.de" url="https://www.wfd-duesseldorf.de">
+      <webServer id="73d09481-d89d-429f-9030-65cfcf3e45be" name="wfd-duesseldorf.de (1)" url="https://www.wfd-duesseldorf.de">
         <fileTransfer port="0" mountedRoot="F:\web" accessType="MOUNT" />
       </webServer>
     </option>
