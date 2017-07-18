@@ -81,6 +81,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2aafffaa-d7cb-47c3-bd1c-25a7408b7269" name="anatom5.de" url="http://anatom5.de">
+        <fileTransfer host="w00d93a0.kasserver.com" port="21" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
