@@ -68,7 +68,7 @@
       <webServer id="5ed2fe03-2aae-4478-bc3b-6011f6102442" name="behandlerlisten.dk" url="http://behandlerlisten.dk">
         <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -76,10 +76,13 @@
       <webServer id="b73f7b05-bc67-4961-9479-a257df79427d" name="wfd-duesseldorf.de" url="https://www.wfd-duesseldorf.de">
         <fileTransfer host="wfd-duesseldorf.de" port="21" rootFolder="/web/" accessType="FTPS">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" />
+            <advancedOptions dataProtectionLevel="Private" maxConnections="2" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
+      </webServer>
+      <webServer id="73d09481-d89d-429f-9030-65cfcf3e45be" name="wfd-duesseldorf.de (1)" url="https://www.wfd-duesseldorf.de">
+        <fileTransfer port="0" mountedRoot="F:\web" accessType="MOUNT" />
       </webServer>
       <webServer id="2aafffaa-d7cb-47c3-bd1c-25a7408b7269" name="anatom5.de" url="http://anatom5.de">
         <fileTransfer host="w00d93a0.kasserver.com" port="21" accessType="FTPS">
