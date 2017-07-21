@@ -100,6 +100,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="ea6fd645-4b72-4cac-ab4b-e820029e0da9" name="gigahost-morten" url="http://ftp.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
