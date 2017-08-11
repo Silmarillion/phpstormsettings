@@ -20,7 +20,7 @@
       <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk" url="http://ftp.dalbakkegaard.dk">
         <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -36,7 +36,7 @@
       <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk (1)" url="http://ftp.dalbakkegaard.dk">
         <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
