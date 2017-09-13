@@ -108,6 +108,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0348a4f9-9616-481f-acb0-05eba9ea82a3" name="lodbjerg.dk" url="http://lodbjerg.dk">
+        <fileTransfer host="lodbjerg.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
