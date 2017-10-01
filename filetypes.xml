@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
