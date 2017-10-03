@@ -17,26 +17,10 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk" url="http://dalbakkegaard.dk">
-        <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs" accessType="FTPS">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="8bef7e59-f092-4d7c-908a-7ca444ac8df2" name="dev.freesetglobal.com" url="http://dev.freesetglobal.com">
         <fileTransfer host="198.46.83.11" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="f0652bf7-ba3c-4ec8-8391-718515497dba" name="ftp.dalbakkegaard.dk (1)" url="http://ftp.dalbakkegaard.dk">
-        <fileTransfer host="ftp.dalbakkegaard.dk" port="21" rootFolder="/httpdocs">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
