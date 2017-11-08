@@ -108,6 +108,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="382b1477-f63d-488e-8268-c101daf513bf" name="test cimdev.dk odrive" url="http://cimdev.dk">
+        <fileTransfer port="0" mountedRoot="C:\Users\morten\odrive\ftp.cimdev.dk\www\cimdev.dk" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
