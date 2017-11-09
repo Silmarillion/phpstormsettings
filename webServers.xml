@@ -101,9 +101,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="ca690520-f121-4bbf-b180-945ded115630" name="cvua-rrw" url="http://w00d93a0.kasserver.com">
-        <fileTransfer host="w00d93a0.kasserver.com" port="21" accessType="FTPS">
+        <fileTransfer host="w00d93a0.kasserver.com" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
