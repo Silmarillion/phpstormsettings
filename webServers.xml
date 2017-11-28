@@ -111,6 +111,14 @@
       <webServer id="382b1477-f63d-488e-8268-c101daf513bf" name="test cimdev.dk odrive" url="http://cimdev.dk">
         <fileTransfer port="0" mountedRoot="C:\Users\morten\odrive\ftp.cimdev.dk\www\cimdev.dk" accessType="MOUNT" />
       </webServer>
+      <webServer id="7aa5fd59-3001-4b8f-9f10-01a27a424ede" name="hanse.matthornsby.ca" url="http://hanse.matthornsby.ca">
+        <fileTransfer host="hanse.matthornsby.ca" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
