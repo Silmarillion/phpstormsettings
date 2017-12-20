@@ -112,9 +112,9 @@
         <fileTransfer port="0" mountedRoot="C:\Users\morten\odrive\ftp.cimdev.dk\www\cimdev.dk" accessType="MOUNT" />
       </webServer>
       <webServer id="7aa5fd59-3001-4b8f-9f10-01a27a424ede" name="hanse.matthornsby.ca" url="http://hanse.matthornsby.ca">
-        <fileTransfer host="hanse.matthornsby.ca" port="21">
+        <fileTransfer host="hanse.matthornsby.ca" port="21" accessType="FTPS">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
