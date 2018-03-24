@@ -127,6 +127,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f7fddd96-b920-4779-9622-cd81db9fab56" name="gggaver" url="http://gggaver.dk">
+        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/gggaver.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
