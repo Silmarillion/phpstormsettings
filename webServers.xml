@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="59b94843-2022-4789-816a-bf4b35e49460" name="daaben.dk" url="http://dåben.dk">
-        <fileTransfer host="linux37.unoeuro.com" port="21" rootFolder="/public_html">
+        <fileTransfer host="ftp.gggaver.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
