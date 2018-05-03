@@ -143,6 +143,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="cd59501b-72bd-46e9-a454-f55de8458bd5" name="matt.cimdev.dk" url="http://matt.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/matt.cimdev.dk" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
