@@ -151,6 +151,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2140202a-1232-412a-ac5f-b46ab5c179e3" name="ftp.hanse-models.de" url="https://hanse-models.de">
+        <fileTransfer host="ftp.hanse-models.de" port="21" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
