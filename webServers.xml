@@ -66,7 +66,12 @@
         </fileTransfer>
       </webServer>
       <webServer id="73d09481-d89d-429f-9030-65cfcf3e45be" name="wfd-duesseldorf.de (1)" url="https://www.wfd-duesseldorf.de">
-        <fileTransfer port="0" mountedRoot="F:\web" accessType="MOUNT" />
+        <fileTransfer host="wfd-duesseldorf.de" port="21" rootFolder="/web" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
       <webServer id="82516945-6ec5-41bf-ad56-415a6db773a3" name="gigahost-sille" url="http://lilleulv.dk">
         <fileTransfer host="ftp.lilleulv.dk" port="21" accessType="FTPS">
@@ -145,6 +150,14 @@
       </webServer>
       <webServer id="cd59501b-72bd-46e9-a454-f55de8458bd5" name="matt.cimdev.dk" url="http://matt.cimdev.dk">
         <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/matt.cimdev.dk" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2140202a-1232-412a-ac5f-b46ab5c179e3" name="ftp.hanse-models.de" url="https://hanse-models.de">
+        <fileTransfer host="ftp.hanse-models.de" port="21" accessType="FTPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
