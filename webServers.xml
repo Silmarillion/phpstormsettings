@@ -172,6 +172,30 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c2796cec-71c9-4f46-8309-f7bcc41501ad" name="cimconsult.dk" url="http://cimconsult.dk">
+        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d4170671-3c6f-4d7d-ae73-6cc538577ff3" name="gis.cimdev.dk" url="http://ftp.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/gis.cimdev.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1015362a-e870-470d-8c00-c8eea5ac2f6e" name="gis.cimdev.dk" url="http://gis.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/gis.cimdev.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
