@@ -50,9 +50,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="5ed2fe03-2aae-4478-bc3b-6011f6102442" name="behandlerlisten.dk" url="http://behandlerlisten.dk">
-        <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html">
+        <fileTransfer host="behandlerlisten.dk" port="21" rootFolder="/public_html" accessType="FTPS">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -188,7 +188,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="1015362a-e870-470d-8c00-c8eea5ac2f6e" name="gis.cimdev.dk" url="http://gis.cimdev.dk">
+      <webServer id="1015362a-e870-470d-8c00-c8eea5ac2f6e" name="gis.cimdev.dk (1)" url="http://gis.cimdev.dk">
         <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/gis.cimdev.dk">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
