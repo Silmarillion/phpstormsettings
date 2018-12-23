@@ -164,7 +164,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="add80e97-b434-42b4-b5bc-cedef7399e01" name="min AZE hosting" url="http://ign.cimdev.dk">
+      <webServer id="add80e97-b434-42b4-b5bc-cedef7399e01" name="min AZE hosting" url="">
         <fileTransfer host="ftp.cimconsult.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
@@ -197,14 +197,6 @@
         </fileTransfer>
       </webServer>
       <webServer id="31a5447e-d3c9-4e69-8088-54791b70ba71" name="minflex.dk" url="https://minflex.dk">
-        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/minflex.dk/" accessType="FTPS">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="139fcea0-3761-4f77-af0d-2dcfb232c4cf" name="minflex.dk (1)" url="https://minflex.dk">
         <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/minflex.dk" accessType="FTPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
