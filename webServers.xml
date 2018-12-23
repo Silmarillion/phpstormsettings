@@ -197,14 +197,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="31a5447e-d3c9-4e69-8088-54791b70ba71" name="minflex.dk" url="https://minflex.dk">
-        <fileTransfer host="ftp.minflex.dk" port="21" accessType="FTPS">
+        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/minflex.dk/" accessType="FTPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="139fcea0-3761-4f77-af0d-2dcfb232c4cf" name="minflex.dk" url="https://minflex.dk">
+      <webServer id="139fcea0-3761-4f77-af0d-2dcfb232c4cf" name="minflex.dk (1)" url="https://minflex.dk">
         <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/minflex.dk" accessType="FTPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
