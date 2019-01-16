@@ -172,8 +172,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="c2796cec-71c9-4f46-8309-f7bcc41501ad" name="cimconsult.dk" url="http://cimconsult.dk">
-        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/">
+      <webServer id="c2796cec-71c9-4f46-8309-f7bcc41501ad" name="cimconsult.dk" url="http://skaerm.hels-gym.dk">
+        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/skaerm.hels-gym.dk">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
