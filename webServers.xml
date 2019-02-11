@@ -204,6 +204,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0a94eeb7-5656-407e-8c41-52116543009e" name="ftp.gaverogco.dk" url="http://gaverogco.dk">
+        <fileTransfer host="ftp.gaverogco.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
