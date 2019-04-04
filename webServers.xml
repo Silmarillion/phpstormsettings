@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4b197c9e-c458-4701-b7cf-775e324b838f" name="boss.cimconsult.dk" url="https://boss.cimconsult.dk">
+        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/boss.cimconsult.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
