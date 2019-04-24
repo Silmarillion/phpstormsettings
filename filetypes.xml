@@ -8,6 +8,7 @@
       <mapping pattern="backup1-MinFlex" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping pattern="templates" type="Smarty" />
     </extensionMap>
   </component>
 </application>
