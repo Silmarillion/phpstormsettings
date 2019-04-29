@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2503198-3e2e-45d4-99d9-14f295edee77" name="ftp.dagensmotet.dk" url="https://dagensmotet.dk">
+        <fileTransfer host="ftp.dagensmotet.dk" port="21" rootFolder="/www/dagensmotet.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
