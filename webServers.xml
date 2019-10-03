@@ -9,8 +9,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="30de2c19-b70c-48da-ae46-a05e8a55dcf5" name="ftp.cimconsult.dk" url="http://staging.minflex.dk">
-        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/staging.minflex.dk">
+      <webServer id="30de2c19-b70c-48da-ae46-a05e8a55dcf5" name="ftp.cimconsult.dk" url="http://ign.cimdev.dk">
+        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/ign.cimdev.dk">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
