@@ -1,5 +1,6 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <codeStyleSettings language="PHP">
+    <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
