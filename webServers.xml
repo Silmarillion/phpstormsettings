@@ -17,14 +17,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="e9380b1d-8a67-4b5f-830e-feec174d9b1f" name="lectio.cimconsult.dk" url="https://lectio.cimconsult.dk">
-        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www/lectio.cimconsult.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
