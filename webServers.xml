@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2fe50aba-73f2-4b2e-b984-ce1e460ce49b" name="ftp.sohan.dk" url="http://sohan.dk">
+        <fileTransfer host="web25.gigahost.dk" port="21" rootFolder="/www/sohan.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
