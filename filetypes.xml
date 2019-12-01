@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
       <mapping pattern="backup1-MinFlex" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
