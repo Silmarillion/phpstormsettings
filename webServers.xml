@@ -33,6 +33,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="bb062619-ebb3-4694-832d-6d2f333cd9f3" name="testscreen.gymsys.dk" url="https://testscreen.gymsys.dk">
+        <fileTransfer host="ftp.gymsys.dk" port="21" rootFolder="/www/testscreen.gymsys.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
