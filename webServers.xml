@@ -25,6 +25,30 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="cf6b5b3a-3cd8-4308-9aa9-e904f77b5d90" name="screen.gymsys.dk" url="https://screen.gymsys.dk">
+        <fileTransfer host="ftp.gymsys.dk" port="21" rootFolder="/www/screen.gymsys.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="daa27efd-4a98-4db5-88ae-549ac3598f9a" name="testscreen.gymsys.dk" url="https://testscreen.gymsys.dk">
+        <fileTransfer host="ftp.gymsys.dk" port="21" rootFolder="/www/testscreen.gymsys.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b050a002-bdbf-438a-9c67-84af82dc8594" name="Min AZE-Server" url="https://screen.gymsys.dk">
+        <fileTransfer host="ftp.cimconsult.dk" port="21" rootFolder="/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
