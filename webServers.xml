@@ -33,16 +33,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="bb062619-ebb3-4694-832d-6d2f333cd9f3" name="testscreen.gymsys.dk" url="https://testscreen.gymsys.dk">
+      <webServer id="bb062619-ebb3-4694-832d-6d2f333cd9f3" name="testscreen.gymsys.dk (1)" url="https://testscreen.gymsys.dk">
         <fileTransfer host="ftp.gymsys.dk" port="21" rootFolder="/www/testscreen.gymsys.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d03a84f5-7f82-4884-9add-4f537339c3fb" name="dev.fotoprint.ca" url="https://dev.fotoprint.ca">
-        <fileTransfer host="dev.fotoprint.ca" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
