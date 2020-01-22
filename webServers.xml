@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="7e64e440-0a88-4ce2-aa47-16ecc309f6e9" name="nerdchat.cimdev.dk" url="https://nerdchat.cimdev.dk">
+        <fileTransfer host="cimdev.dk" port="21" rootFolder="/www/nerdchat.cimdev.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
