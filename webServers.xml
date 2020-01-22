@@ -41,14 +41,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="636146b2-280a-4250-9550-67eacb69877b" name="ftp.datadorf.net" url="https://wfd-duesseldorf.de.datadorf.net">
-        <fileTransfer host="ftp.datadorf.net" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
