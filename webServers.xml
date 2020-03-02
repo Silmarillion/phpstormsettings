@@ -57,14 +57,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="7a7714db-fc4f-405f-a12e-e445132d7e20" name="ler.korsagertech.dk" url="https://ler.korsagertech.dk">
-        <fileTransfer host="ler.korsagertech.dk" port="21" rootFolder="/www/ler.korsagertech.dk">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
