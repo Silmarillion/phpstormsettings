@@ -49,14 +49,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="917fca50-c646-43de-a829-f9800b0b1fb9" name="dev.cap-autism.com" url="http://ftp.cap-autism.com">
-        <fileTransfer host="ftp.cap-autism.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
