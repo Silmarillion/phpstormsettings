@@ -57,6 +57,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c6e0a413-e992-4555-ba47-e24873eb8eef" name="sproget.cimdev.dk" url="http://sproget.cimdev.dk">
+        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/sproget.cimdev.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
