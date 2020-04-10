@@ -4,6 +4,7 @@
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="projections.php" type="PLAIN_TEXT" />
       <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
       <mapping pattern="backup1-MinFlex" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
