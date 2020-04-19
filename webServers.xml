@@ -50,6 +50,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="98c9cdda-7a80-4f31-874f-fdf3cc12f28b" name="wf.poulsen.org" url="http://wf.poulsen.org">
+        <fileTransfer rootFolder="/www/wf.poulsen.org" host="cimconsult.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
