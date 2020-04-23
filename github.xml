@@ -3,7 +3,7 @@
     <account id="6517448a-ebc1-4aa9-8ba4-8e3f35aef3a4" name="Silmarillion">
       <server host="github.com" />
     </account>
-    <account id="bd1b96ef-5508-44ba-a8ba-e18215b5fa58" name="cimconsult">
+    <account id="5c8203b4-2490-405e-8db5-74c2fd4e4d1f" name="cimconsult">
       <server useHttp="false" host="github.com" />
     </account>
   </component>

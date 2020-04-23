@@ -57,6 +57,14 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="445c420b-85ef-417f-b7f3-500e240145bc" name="dev.minflex.dk" url="https://dev.minflex.dk">
+        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/dev.minflex.dk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
