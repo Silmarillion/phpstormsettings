@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="geojson" type="JSON" />
-      <mapping pattern="projections.php" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="projections.php" type="PLAIN_TEXT" />
       <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
       <mapping pattern="backup1-MinFlex" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="templates" type="Smarty" />
+      <mapping ext="latte" type="XHTML" />
       <mapping ext="gml" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
