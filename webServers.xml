@@ -58,11 +58,17 @@
         </fileTransfer>
       </webServer>
       <webServer id="445c420b-85ef-417f-b7f3-500e240145bc" name="dev.minflex.dk" url="https://dev.minflex.dk">
-        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/dev.minflex.dk">
+        <fileTransfer rootFolder="/dev.minflex.dk" host="ftp.minflex.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8ab224f2-6451-4a6a-92fe-1845a262f003" name="ftp.wordgeek.dk" url="https://wordgeek.dk">
+        <fileTransfer rootFolder="/www/wordgeek.dk" host="ftp.cimconsult.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
         </fileTransfer>
       </webServer>
     </option>
