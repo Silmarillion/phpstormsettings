@@ -2,51 +2,45 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c2503198-3e2e-45d4-99d9-14f295edee77" name="ftp.dagensmotet.dk" url="https://dagensmotet.dk">
-        <fileTransfer host="ftp.dagensmotet.dk" port="21" rootFolder="/www/dagensmotet.dk">
+        <fileTransfer rootFolder="/www/dagensmotet.dk" host="ftp.dagensmotet.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="30de2c19-b70c-48da-ae46-a05e8a55dcf5" name="ftp.cimconsult.dk" url="http://ign.cimdev.dk">
-        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/www/staging.minflex.dk">
+        <fileTransfer rootFolder="/www/staging.minflex.dk" host="ftp.minflex.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="2fe50aba-73f2-4b2e-b984-ce1e460ce49b" name="ftp.sohan.dk" url="http://sohan.dk">
-        <fileTransfer host="web25.gigahost.dk" port="21" rootFolder="/www/sohan.dk">
+        <fileTransfer rootFolder="/www/sohan.dk" host="web25.gigahost.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="daa27efd-4a98-4db5-88ae-549ac3598f9a" name="testscreen.gymsys.dk" url="https://testscreen.gymsys.dk">
-        <fileTransfer host="ftp.gymsys.dk" port="21" rootFolder="/www/testscreen.gymsys.dk">
+        <fileTransfer rootFolder="/www/testscreen.gymsys.dk" host="ftp.gymsys.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="bb062619-ebb3-4694-832d-6d2f333cd9f3" name="testscreen.gymsys.dk (1)" url="https://testscreen.gymsys.dk">
-        <fileTransfer host="ftp.gymsys.dk" port="21" rootFolder="/www/testscreen.gymsys.dk">
+        <fileTransfer rootFolder="/www/testscreen.gymsys.dk" host="ftp.gymsys.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="7e64e440-0a88-4ce2-aa47-16ecc309f6e9" name="nerdchat.cimdev.dk" url="https://nerdchat.cimdev.dk">
-        <fileTransfer host="cimdev.dk" port="21" rootFolder="/www/nerdchat.cimdev.dk">
+        <fileTransfer rootFolder="/www/nerdchat.cimdev.dk" host="cimdev.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="917fca50-c646-43de-a829-f9800b0b1fb9" name="dev.cap-autism.com" url="http://ftp.cap-autism.com">
@@ -54,23 +48,27 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="c6e0a413-e992-4555-ba47-e24873eb8eef" name="sproget.cimdev.dk" url="http://sproget.cimdev.dk">
-        <fileTransfer host="ftp.cimdev.dk" port="21" rootFolder="/www/sproget.cimdev.dk">
+      <webServer id="98c9cdda-7a80-4f31-874f-fdf3cc12f28b" name="wf.poulsen.org" url="http://wf.poulsen.org">
+        <fileTransfer rootFolder="/www/wf.poulsen.org" host="cimconsult.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="445c420b-85ef-417f-b7f3-500e240145bc" name="dev.minflex.dk" url="https://dev.minflex.dk">
-        <fileTransfer host="ftp.minflex.dk" port="21" rootFolder="/dev.minflex.dk">
+        <fileTransfer rootFolder="/dev.minflex.dk" host="ftp.minflex.dk" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8ab224f2-6451-4a6a-92fe-1845a262f003" name="ftp.wordgeek.dk" url="https://wordgeek.dk">
+        <fileTransfer rootFolder="/www/wordgeek.dk" host="ftp.cimconsult.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
         </fileTransfer>
       </webServer>
     </option>
