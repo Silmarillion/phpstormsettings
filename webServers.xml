@@ -71,6 +71,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="18f85530-6b88-46ba-a5d5-b34b752b6ad8" name="ftp.consciousheart.dk" url="http://www.consciousheart.dk">
+        <fileTransfer rootFolder="/www/consciousheart.dk" host="web4.gigahost.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
