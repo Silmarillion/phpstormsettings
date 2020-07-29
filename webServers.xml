@@ -78,6 +78,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6e0a021e-c0b5-47ce-a8c8-9d771e3a012b" name="geodate.cimdev.dk" url="http://geodate.cimdev.dk">
+        <fileTransfer rootFolder="/www/geodate.cimdev.dk" host="ftp.cimconsult.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
