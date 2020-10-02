@@ -85,6 +85,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6cb06218-87a6-4526-b813-040d906c4fd9" name="lendthis.dk" url="https://lendthis.dk">
+        <fileTransfer rootFolder="/www/lendthis.dk" host="ftp.lendthis.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
