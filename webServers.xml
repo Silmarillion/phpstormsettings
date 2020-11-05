@@ -92,6 +92,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="abcb8aec-0e1a-458e-af7a-a00cb78bd5b1" name="ftp.vestervangkirke.dk" url="https://vestervangkirke.dk">
+        <fileTransfer rootFolder="/www/vestervangkirke.dk" host="ftp.vestervangkirke.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
