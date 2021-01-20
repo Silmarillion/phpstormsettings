@@ -99,13 +99,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="fd586bf0-c899-4af8-8362-534cd085d941" name="udvikling2.qler.dk" url="https://udvikling2.qler.dk">
-        <fileTransfer rootFolder="/www/udvikling2.qler.dk" accessType="SFTP" host="udvikling2.qler.dk" port="22" sshConfigId="786c3ab6-9707-47f3-a190-e900e2386d47" sshConfig="udvikling2@udvikling2.qler.dk:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
