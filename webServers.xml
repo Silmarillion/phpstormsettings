@@ -99,6 +99,20 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="89d25d4e-b02f-4c47-afca-35d06a53e8f0" name="ftp.vinord.dk" url="https://vinord.dk">
+        <fileTransfer accessType="FTPS" host="ftp.vinord.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="88f1493e-3a9c-4217-ac3b-b41290c46ae1" name="vinord.dk" url="https://vinord.dk">
+        <fileTransfer rootFolder="/public_html" host="ftp.vinord.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
