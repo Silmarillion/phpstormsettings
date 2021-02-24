@@ -113,6 +113,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="22bc00a0-9b8a-4c68-95a5-7d8fdf564891" name="kmdstaging.minflex.dk" url="https://kmdstaging.minflex.dk">
+        <fileTransfer accessType="FTPS" host="kmdstaging.minflex.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
