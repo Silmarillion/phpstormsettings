@@ -7,8 +7,10 @@
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="backup1-MinFlex" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="prj" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="tpl_backup" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="templates" type="Smarty" />
