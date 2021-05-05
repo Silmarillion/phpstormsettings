@@ -134,6 +134,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9a21e228-ad0c-4829-8593-b91218f0819e" name="2fisk.hornbaek.dk" url="https://hornbaek.2fisk.dk">
+        <fileTransfer rootFolder="/www/hornbaek.2fisk.dk" accessType="FTPS" host="ftp.2fisk.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
