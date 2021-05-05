@@ -127,6 +127,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d8301d18-7a53-4295-a06b-8171f5d16759" name="apptest.cimdev.dk" url="https://apptest.cimdev.dk">
+        <fileTransfer rootFolder="/www/apptest.cimdev.dk" accessType="FTPS" host="cimdev.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
