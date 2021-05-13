@@ -1,12 +1,29 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="geojson" type="JSON" />
+      <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="backup1-MinFlex" type="PLAIN_TEXT" />
-      <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="prj" type="PLAIN_TEXT" />
+      <mapping ext="ics" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="tpl_backup" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="templates" type="Smarty" />
+      <mapping ext="latte" type="XHTML" />
+      <mapping ext="gml" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="projections.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="status.php" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
