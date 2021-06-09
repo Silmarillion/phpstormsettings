@@ -141,6 +141,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ecfd81f9-50ec-4734-aad5-6bb30b9cc9bd" name="rimmedrytmer.dk" url="https://rimmedrytmer.dk">
+        <fileTransfer rootFolder="/www/rimmedrytmer.dk" host="rimmedrytmer.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
