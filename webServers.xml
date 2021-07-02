@@ -148,6 +148,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d6037149-c66a-4cbe-bb2d-416e24936797" name="xmailer.qler.dk" url="https://xmailer.qler.dk">
+        <fileTransfer rootFolder="/www/xmailer.qler.dk" accessType="FTPS" host="qler.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
