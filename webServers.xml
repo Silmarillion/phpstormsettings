@@ -155,6 +155,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f1e28bed-c9b4-4957-aab4-1ffc3ecd2c33" name="closemydeal.co.uk" url="https://closemydeal.co.uk">
+        <fileTransfer rootFolder="/public_html" host="ams-node5.websitehostserver.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
