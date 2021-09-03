@@ -162,6 +162,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e1787e8a-6ca1-4526-ae0d-ac86cc28a439" name="georec.qler.dk" url="https://georec.qler.dk">
+        <fileTransfer rootFolder="/www/georec.qler.dk" accessType="FTPS" host="qler.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
