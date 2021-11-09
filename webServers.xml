@@ -169,6 +169,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b1c56078-8d99-43f5-a873-d842b3a23f88" name="kort.vestervangkirke.dk" url="https://kort.vestervangkirke.dk">
+        <fileTransfer rootFolder="/www/kort.vestervangkirke.dk" host="vestervangkirke.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
