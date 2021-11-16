@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dev.qler.dk" id="367b6444-8978-43c6-82b2-9b01dc7b67b0" port="22" nameFormat="DESCRIPTIVE" username="udvikling2" />
+    </configs>
+  </component>
+</application>

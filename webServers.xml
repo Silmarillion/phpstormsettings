@@ -176,6 +176,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="8a833222-1982-4bb2-94aa-d9d934d281f1" name="dev.qler.dk" url="https://dev.qler.dk">
+        <fileTransfer rootFolder="/www/dev.qler.dk" accessType="SFTP" host="dev.qler.dk" port="22" sshConfigId="367b6444-8978-43c6-82b2-9b01dc7b67b0" sshConfig="udvikling2@dev.qler.dk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
