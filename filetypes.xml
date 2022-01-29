@@ -24,6 +24,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping pattern="projections.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="status.php" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
