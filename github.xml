@@ -1,9 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account name="qleraps" id="8d951fc4-83d2-4cd9-bc55-761667d473dd">
-      <server host="github.com" />
-    </account>
-    <account name="Silmarillion" id="6517448a-ebc1-4aa9-8ba4-8e3f35aef3a4">
+    <account name="qleraps" id="84c63bf5-2e9c-4e24-be92-4444c71c556f">
       <server host="github.com" />
     </account>
     <account name="cimconsult" id="5c8203b4-2490-405e-8db5-74c2fd4e4d1f">
