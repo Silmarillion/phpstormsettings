@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48be162a-863b-4871-bb5c-9d9563c21fdc" name="ftp.kstkurser.dk" url="https://kstkurser.dk">
+        <fileTransfer rootFolder="/public_html" host="ftp.kstkurser.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" connections="2" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+        <option name="numberOfConnections" value="2" />
+      </webServer>
+    </option>
+  </component>
+</application>
