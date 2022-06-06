@@ -1,6 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account name="qleraps" id="bd80ab94-dec6-4bde-ab1f-33329c74073a">
+    <account name="cimconsult" id="bd80ab94-dec6-4bde-ab1f-33329c74073a">
       <server host="github.com" />
     </account>
   </component>
