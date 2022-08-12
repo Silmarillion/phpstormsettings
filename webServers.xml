@@ -9,6 +9,13 @@
         </fileTransfer>
         <option name="numberOfConnections" value="2" />
       </webServer>
+      <webServer id="b3c27a2c-5f71-48a7-b29b-e0ff1e3c8c05" name="editor.escapegamecreator.com" url="https://editor.escapegamecreator.com">
+        <fileTransfer accessType="FTPS" host="ftp.escapegamecreator.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
