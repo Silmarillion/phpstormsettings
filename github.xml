@@ -1,9 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account name="poulsensoft" id="21b5cc5c-8bc5-4ad1-831b-2c7b52b87719">
-      <server host="github.com" />
-    </account>
-    <account name="qleraps" id="bd80ab94-dec6-4bde-ab1f-33329c74073a">
+    <account name="qleraps" id="22b07545-86b8-4a14-9d1d-f4935087074b">
       <server host="github.com" />
     </account>
   </component>
