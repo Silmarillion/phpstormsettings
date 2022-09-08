@@ -16,6 +16,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="44d81578-ae5b-44bf-8dbd-d06a602b92ec" name="editor.escapetale.dk" url="https://editor.escapetale.dk">
+        <fileTransfer rootFolder="/home/editor/www" accessType="SFTP" host="editor.escapetale.dk" port="22" sshConfigId="367b6444-8978-43c6-82b2-9b01dc7b67b0" sshConfig="editor@editor.escapetale.dk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
