@@ -16,6 +16,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e8103be7-7f96-4ce7-ad5a-655f57b36f1d" name="ftp.qgrav.dk" url="https://qgrav.dk">
+        <fileTransfer rootFolder="/www/qgrav.dk" accessType="FTPS" host="ftp.qgrav.dk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
