@@ -16,10 +16,17 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="e8103be7-7f96-4ce7-ad5a-655f57b36f1d" name="ftp.qgrav.dk" url="https://qgrav.dk">
-        <fileTransfer rootFolder="/www/qgrav.dk" accessType="FTPS" host="ftp.qgrav.dk" port="21">
+      <webServer id="96904008-4387-4cb8-923b-964d0cd1f2bf" name="minflex inlead prod" url="http://5.75.236.85/">
+        <fileTransfer rootFolder="/home/minflex/web/minflex.dk/public_html" accessType="SFTP" sshConfigId="ddb8beb1-8ef5-4ce9-92d7-2a106e795fb7" sshConfig="root@5.75.236.85:22 key">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8bd133b1-2cab-4ea1-92f3-4e9b0a6d9f2f" name="minflex inlead production" url="http://5.75.236.85">
+        <fileTransfer rootFolder="/home/minflex/web/minflex.dk/public_html" accessType="SFTP" host="5.75.236.85" port="22" sshConfigId="d1fd97cc-3625-4ec1-b6de-c9b088822c86" sshConfig="root@5.75.236.85:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
