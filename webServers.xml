@@ -17,7 +17,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="96904008-4387-4cb8-923b-964d0cd1f2bf" name="minflex inlead prod" url="http://5.75.236.85/">
-        <fileTransfer rootFolder="/home/minflex/web/minflex.dk/public_html" accessType="SFTP" sshConfigId="ddb8beb1-8ef5-4ce9-92d7-2a106e795fb7" sshConfig="root@5.75.236.85:22 key">
+        <fileTransfer rootFolder="/home/minflex/web/minflex.dk/public_html" accessType="SFTP" host="5.75.236.85" port="22" sshConfigId="d1fd97cc-3625-4ec1-b6de-c9b088822c86" sshConfig="root@5.75.236.85:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -27,6 +27,13 @@
         <fileTransfer rootFolder="/home/minflex/web/minflex.dk/public_html" accessType="SFTP" host="5.75.236.85" port="22" sshConfigId="d1fd97cc-3625-4ec1-b6de-c9b088822c86" sshConfig="root@5.75.236.85:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fb10d111-3589-486c-a5ed-13b39487683e" name="mcgamecreator.com" url="http://mcgamecreator.com">
+        <fileTransfer rootFolder="/public_html" accessType="FTPS" host="mcgamecreator.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
