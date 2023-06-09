@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="5.75.236.85" id="d1fd97cc-3625-4ec1-b6de-c9b088822c86" keyPath="D:\Dropbox\2 cimconsult\ssh\keys 2023\private.key" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="5.75.236.85" id="d1fd97cc-3625-4ec1-b6de-c9b088822c86" keyPath="C:\Users\morten\Dropbox\2 cimconsult\ssh\keys 2023\private.key" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
