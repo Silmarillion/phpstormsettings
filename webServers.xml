@@ -30,6 +30,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="4a161572-6945-43d1-a899-580cf7ec3262" name="backend.lerplus.dk" url="https://backend.lerplus.dk">
+        <fileTransfer rootFolder="/www/backend.lerplus.dk" accessType="SFTP" host="backend.lerplus.dk" port="22" sshConfigId="5827aac9-a108-4608-964a-21ff3caff7db" sshConfig="morten@backend.lerplus.dk:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
