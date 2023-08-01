@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="5.75.236.85" id="d1fd97cc-3625-4ec1-b6de-c9b088822c86" keyPath="D:\Dropbox\2 cimconsult\ssh\keys 2023\private.key" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig host="backend.lerplus.dk" id="5827aac9-a108-4608-964a-21ff3caff7db" keyPath="C:\Users\morten\Dropbox\2 cimconsult\ssh\keys 2023\private.key" port="22" nameFormat="DESCRIPTIVE" username="morten" useOpenSSHConfig="true" />
+      <sshConfig host="backend.lerplus.dk" id="5827aac9-a108-4608-964a-21ff3caff7db" keyPath="D:\Dropbox\2 cimconsult\ssh\keys 2023\private.key" port="22" nameFormat="DESCRIPTIVE" username="morten" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
