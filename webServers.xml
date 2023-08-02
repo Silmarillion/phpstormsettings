@@ -16,20 +16,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="e8103be7-7f96-4ce7-ad5a-655f57b36f1d" name="ftp.qgrav.dk" url="https://qgrav.dk">
-        <fileTransfer rootFolder="/www/qgrav.dk" accessType="FTPS" host="ftp.qgrav.dk" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="5a1888a9-53a5-4649-9cf6-c8148586b7ac" name="jw.qler.dk" url="https://jw.qler.dk">
-        <fileTransfer rootFolder="/www/jw.qler.dk" accessType="FTPS" host="jw.qler.dk" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="4a161572-6945-43d1-a899-580cf7ec3262" name="backend.lerplus.dk" url="https://backend.lerplus.dk">
         <fileTransfer rootFolder="/www/backend.lerplus.dk" accessType="SFTP" host="backend.lerplus.dk" port="22" sshConfigId="5827aac9-a108-4608-964a-21ff3caff7db" sshConfig="morten@backend.lerplus.dk:22 key" keyPair="true">
           <advancedOptions>
