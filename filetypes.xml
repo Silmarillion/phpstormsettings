@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="syslog" type="AUTO_DETECTED" />
       <mapping pattern="jtN67bT1aFED7trhTKGnSwQJnYEX634DJad5nN1-P2s" type="AUTO_DETECTED" />
       <mapping ext="inputoptions" type="HTML" />
       <mapping ext="geojson" type="JSON" />
