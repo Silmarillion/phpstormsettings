@@ -8,6 +8,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="admin_tab_login.tpl" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="inputarray" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="gpkg" type="PLAIN_TEXT" />
