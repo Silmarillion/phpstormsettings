@@ -30,6 +30,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="aadd5211-3c9b-4140-9c7f-2dfc15a7bd48" name="kanet2.qwebgis.dk" url="https://kanet2.qwebgis.dk">
+        <fileTransfer rootFolder="/www/kanet2.qwebgis.dk" accessType="SFTP" host="backend.lerplus.dk" port="22" sshConfigId="5827aac9-a108-4608-964a-21ff3caff7db" sshConfig="morten@backend.lerplus.dk:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
