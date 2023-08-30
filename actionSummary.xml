@@ -1,0 +1,73 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1693396332898" />
+    </e>
+    <e n="Console.TableResult.AddRow">
+      <i c="2" l="1693396237673" />
+    </e>
+    <e n="Console.TableResult.Reload">
+      <i c="6" l="1693395623886" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="4" l="1693396334233" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="4" l="1693395764121" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1693395700162" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1693395667499" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1693395680904" />
+    </e>
+    <e n="EditorDown">
+      <i c="4" l="1693396165050" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1693395688689" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1693395674099" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="3" l="1693395700754" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="6" l="1693396165242" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="2" l="1693395679754" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1693395680073" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1693395685107" />
+    </e>
+    <e n="EditorRight">
+      <i c="12" l="1693395693610" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="1" l="1693395670660" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="4" l="1693395674513" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="2" l="1693395743970" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1693396169837" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1693394989995" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
+      <i c="3" l="1693396245882" />
+    </e>
+  </component>
+</application>
