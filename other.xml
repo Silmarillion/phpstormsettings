@@ -11,6 +11,7 @@
     "PhpStorm.InitialConfiguration": "true",
     "appcds.runOnSecondStart": "PS-232.9559.64-cab5520b0db64073f8f233769e4e1a17a4cbb264ff3beaec3b0288125c86372c",
     "bundled.plugins.list.saved.version": "PS-232.9559.64",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
     "evlsprt3.232": "23",
     "experimental.ui.first.promotion.localdate": "2023-08-30",
     "experimental.ui.on.first.startup": "false",
