@@ -3,6 +3,9 @@
     <e n="$Delete">
       <i c="2" l="1693396332898" />
     </e>
+    <e n="$SelectAll">
+      <i c="1" l="1693462518936" />
+    </e>
     <e n="Console.TableResult.AddRow">
       <i c="2" l="1693396237673" />
     </e>
@@ -25,7 +28,7 @@
       <i c="1" l="1693395667499" />
     </e>
     <e n="EditorDelete">
-      <i c="1" l="1693395680904" />
+      <i c="2" l="1693462519193" />
     </e>
     <e n="EditorDown">
       <i c="4" l="1693396165050" />
@@ -49,7 +52,7 @@
       <i c="1" l="1693395680073" />
     </e>
     <e n="EditorPaste">
-      <i c="3" l="1693395685107" />
+      <i c="4" l="1693462471775" />
     </e>
     <e n="EditorRight">
       <i c="12" l="1693395693610" />
@@ -66,8 +69,14 @@
     <e n="SaveAll">
       <i c="4" l="1693396169837" />
     </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1693462522335" />
+    </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693394989995" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
+      <i c="1" l="1693462472016" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
       <i c="3" l="1693396245882" />
