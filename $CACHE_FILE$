@@ -18,7 +18,10 @@
     <modules />
   </component>
   <component name="PhpLanguageFeatureUsagesStatistics">
-    <project hash="6dfdc8d0" />
+    <project hash="6dfdc8d0">
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="RETURN_TYPES" />
+    </project>
     <project hash="c0c38231" />
   </component>
   <component name="PluginAdvertiserExtensions">{
