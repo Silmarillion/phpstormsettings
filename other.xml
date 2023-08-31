@@ -6,10 +6,10 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-232.9559.64",
     "PhpStorm.InitialConfiguration": "true",
-    "appcds.runOnSecondStart": "PS-232.9559.64-cab5520b0db64073f8f233769e4e1a17a4cbb264ff3beaec3b0288125c86372c",
+    "appcds.runOnSecondStart": "PS-232.9559.64-665f1b3804bc38595be49d11f299a437d8231579a1bf0e7c49c9493dc40e435b",
     "bundled.plugins.list.saved.version": "PS-232.9559.64",
     "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
     "evlsprt3.232": "23",
@@ -28,6 +28,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "C:/Users/morten/Dropbox/PHPStormProjekter/qj.qler.dk",
       "C:/Users/morten/Dropbox/PHPStormProjekter/robot.qler.dk"
     ],
     "fileTypeDetectors": [

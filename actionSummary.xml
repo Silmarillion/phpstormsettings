@@ -4,7 +4,7 @@
       <i c="2" l="1693396332898" />
     </e>
     <e n="$SelectAll">
-      <i c="1" l="1693462518936" />
+      <i c="3" l="1693464368319" />
     </e>
     <e n="Console.TableResult.AddRow">
       <i c="2" l="1693396237673" />
@@ -16,10 +16,13 @@
       <i c="4" l="1693396334233" />
     </e>
     <e n="DatabaseView.Ddl.AlterObject">
-      <i c="1" l="1693414491441" />
+      <i c="2" l="1693464506124" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="2" l="1693464261331" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4" l="1693395764121" />
+      <i c="6" l="1693464509567" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1693395700162" />
@@ -28,7 +31,7 @@
       <i c="1" l="1693395667499" />
     </e>
     <e n="EditorDelete">
-      <i c="2" l="1693462519193" />
+      <i c="4" l="1693464289016" />
     </e>
     <e n="EditorDown">
       <i c="4" l="1693396165050" />
@@ -37,7 +40,7 @@
       <i c="2" l="1693395688689" />
     </e>
     <e n="EditorLeft">
-      <i c="1" l="1693395674099" />
+      <i c="2" l="1693464508842" />
     </e>
     <e n="EditorLineEnd">
       <i c="3" l="1693395700754" />
@@ -52,10 +55,13 @@
       <i c="1" l="1693395680073" />
     </e>
     <e n="EditorPaste">
-      <i c="4" l="1693462471775" />
+      <i c="8" l="1693464704072" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="2" l="1693464703800" />
     </e>
     <e n="EditorRight">
-      <i c="12" l="1693395693610" />
+      <i c="13" l="1693464508688" />
     </e>
     <e n="EditorScrollDown">
       <i c="1" l="1693395670660" />
@@ -65,6 +71,9 @@
     </e>
     <e n="GotoDeclaration">
       <i c="2" l="1693395743970" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1693464199154" />
     </e>
     <e n="SaveAll">
       <i c="4" l="1693396169837" />
@@ -76,7 +85,7 @@
       <i c="1" l="1693394989995" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="1" l="1693462472016" />
+      <i c="5" l="1693464704568" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
       <i c="3" l="1693396245882" />
